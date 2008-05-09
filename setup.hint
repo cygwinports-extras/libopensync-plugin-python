@@ -1,0 +1,4 @@
+category: Libs Python
+requires: cygwin glib2 libopensync0 python python-opensync
+sdesc: "OpenSync Python plugin"
+ldesc: "Python plugin for the OpenSync synchronization framework"
